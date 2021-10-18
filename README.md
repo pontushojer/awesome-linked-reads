@@ -3,40 +3,40 @@
 This is a collection of tools and resources for analysis and processing of linked-reads. 
 
 ## Tools
-Name | Category | Description | Status
---- | --- |--- | ---
-[Aquila](https://github.com/maiziex/Aquila) | assembly, pipeline | Diploid personal genome assembly and comprehensive variant detection based on linked-reads | ![GitHub last commit](https://img.shields.io/github/last-commit/maiziex/Aquila)
-[Aquila_stLFR](https://github.com/maiziex/Aquila_stLFR) | assembly, pipeline | Human haplotype-resolved assembly and variant detection for stLFR, hybrid assembly for linked-reads | ![GitHub last commit](https://img.shields.io/github/last-commit/maiziex/Aquila_stLFR)
-[Ariadne](https://github.com/lauren-mak/ariadne) | assembly, metagenomics | de Bruijn graph-based program for barcoded read deconvolution | ![GitHub last commit](https://img.shields.io/github/last-commit/lauren-mak/ariadne)
-[arcs](https://github.com/bcgsc/arcs) | assembly | Scaffold genome sequence assemblies.  | ![GitHub last commit](https://img.shields.io/github/last-commit/bcgsc/arcs)
-[Athena](https://github.com/abishara/athena_meta) | assembly, metagenomics | Read cloud assembler for metagenomes | ![GitHub last commit](https://img.shields.io/github/last-commit/abishara/athena_meta)
-[BarCrawler](https://github.com/J35P312/BarCrawler) | qc | QC package for 10X genomics barcoded reads. | ![GitHub last commit](https://img.shields.io/github/last-commit/J35P312/BarCrawler)
-[bxtools](https://github.com/walaj/bxtools) | toolkit |  Tools for analyzing mapped 10x data | ![GitHub last commit](https://img.shields.io/github/last-commit/walaj/bxtools)
-[EMerAld (EMA)](https://github.com/arshajii/ema) | mapping | Preforms barcode-aware alignment of linked reads. Also does preprocessing of 10x Genomics data. | ![GitHub last commit](https://img.shields.io/github/last-commit/arshajii/ema)
-[grocsvs](https://github.com/grocsvs/grocsvs) | structural variants | Genome-wide reconstruction of complex structural variants | ![GitHub last commit](https://img.shields.io/github/last-commit/grocsvs/grocsvs)
-[HapCUT2](https://github.com/vibansal/HapCUT2) | phasing | Phasing of barcode linked reads | ![GitHub last commit](https://img.shields.io/github/last-commit/vibansal/HapCUT2)
-[HapTree-X](https://github.com/0xTCG/haptreex) | phasing | Haplotype phaser for next-generation sequencing data | ![GitHub last commit](https://img.shields.io/github/last-commit/0xTCG/haptreex)
-[Lariat](https://github.com/10XGenomics/lariat) | mapping | Linked-Read Alignment Tool | ![GitHub last commit](https://img.shields.io/github/last-commit/10XGenomics/lariat)
-[LEVIATHAN](https://github.com/morispi/LEVIATHAN) | structural variants | Linked-reads based structural variant caller with barcode indexing | ![GitHub last commit](https://img.shields.io/github/last-commit/morispi/LEVIATHAN)
-[LinkedSV](https://github.com/WGLab/LinkedSV) | structural variants | Structural variant caller for linked-read sequencing data | ![GitHub last commit](https://img.shields.io/github/last-commit/WGLab/LinkedSV)
-[LongRanger](https://github.com/10XGenomics/longranger) | pipeline | Pipeline for alignment, variant calling, phasing, and ptructural variant calling | ![GitHub last commit](https://img.shields.io/github/last-commit/10XGenomics/longranger)
-[LRez](https://github.com/morispi/LRez) | toolkit | Standalone tool and library allowing to work with barcoded linked-reads | ![GitHub last commit](https://img.shields.io/github/last-commit/morispi/LRez)
-[LRTK-SIM](https://github.com/zhanglu295/LRTK-SIM) | simulation | A program to simulate linked reads sequencing from 10X Chromium System | ![GitHub last commit](https://img.shields.io/github/last-commit/zhanglu295/LRTK-SIM)
-[LRSIM](https://github.com/aquaskyline/LRSIM) | simulation | A simulator for linked reads | ![GitHub last commit](https://img.shields.io/github/last-commit/aquaskyline/LRSIM)
-[Minerva](https://github.com/dcdanko/minerva_barcode_deconvolution) | assembly | Sort Linked Read DNA Into Fragment Specific Clusters | ![GitHub last commit](https://img.shields.io/github/last-commit/dcdanko/minerva_barcode_deconvolution)
-[NAIBR](https://github.com/raphael-group/NAIBR) | structural variants | Identifies novel adjacencies created by structural variation events such as deletions, duplications, inversions, and complex rearrangements | ![GitHub last commit](https://img.shields.io/github/last-commit/raphael-group/NAIBR)
-[Novel-X](https://github.com/1dayac/Novel-X) | structural variants | Novel insertion detection with 10X reads | ![GitHub last commit](https://img.shields.io/github/last-commit/1dayac/Novel-X)
-[Samovar](https://github.com/cdarby/samovar) | variant calling | Somatic (mosaic) SNV caller for 10X Genomics data using random forest classification and feature-based filters | ![GitHub last commit](https://img.shields.io/github/last-commit/cdarby/samovar)
-[scaff10x](https://sourceforge.net/projects/phusion2/files/scaff10x/) | assembly | Scaffolding assemblies using linked read data |
-[stLFRdenovo](https://github.com/BGI-biotools/stLFRdenovo) | assebly | De Novo assembly pipeline to deal with barcoded reads. It is based on Supernova, with a fastq parsing and sorting module constumized for stLFR data. | ![GitHub last commit](https://img.shields.io/github/last-commit/BGI-biotools/stLFRdenovo) 
-[stLFRsv](https://github.com/BGI-biotools/stLFRsv) | structural variants | Structure variation(SV) pipeline for stLFR co-barcode reads | ![GitHub last commit](https://img.shields.io/github/last-commit/BGI-biotools/stLFRsv)
-[SuperNova](https://github.com/10XGenomics/supernova) | assembly | 10x Genomics Linked-Read Diploid De Novo Assembler | ![GitHub last commit](https://img.shields.io/github/last-commit/10XGenomics/supernova)
-[SVenX](https://github.com/vborjesson/SVenX) | structural variants | Pipeline for SV detection using 10X genomics data | ![GitHub last commit](https://img.shields.io/github/last-commit/vborjesson/SVenX)
-[tenx_utils](https://github.com/friend1ws/tenx_utils) | toolkit | Utility functions for 10x data | ![GitHub last commit](https://img.shields.io/github/last-commit/friend1ws/tenx_utils)
-[Tigmint](https://github.com/bcgsc/tigmint) | assembly | Correct misassemblies using Linked Reads | ![GitHub last commit](https://img.shields.io/github/last-commit/bcgsc/tigmint)
-[Topsorter](https://github.com/hanfang/Topsorter) | structural variants, qc | Graphic assement of structural variants | ![GitHub last commit](https://img.shields.io/github/last-commit/hanfang/Topsorter)
-[Valor](https://github.com/BilkentCompGen/valor) | structural variants | Variation discovery using long range information in linked-reads | ![GitHub last commit](https://img.shields.io/github/last-commit/BilkentCompGen/valor)
-[ZoomX](https://bitbucket.org/charade/zoomx/) | structural variants | Single Molecule Based Rearrangement Analysis with Linked Read Sequencing |
+Name|Category|Description|Status
+---|---|:---|-----
+[Aquila](https://github.com/maiziex/Aquila)|assembly, pipeline|Diploid personal genome assembly and comprehensive variant detection based on linked-reads|![GitHub last commit](https://img.shields.io/github/last-commit/maiziex/Aquila)
+[Aquila_stLFR](https://github.com/maiziex/Aquila_stLFR)|assembly, pipeline|Human haplotype-resolved assembly and variant detection for stLFR, hybrid assembly for linked-reads|![GitHub last commit](https://img.shields.io/github/last-commit/maiziex/Aquila_stLFR)
+[Ariadne](https://github.com/lauren-mak/ariadne)|assembly, metagenomics|de Bruijn graph-based program for barcoded read deconvolution|![GitHub last commit](https://img.shields.io/github/last-commit/lauren-mak/ariadne)
+[arcs](https://github.com/bcgsc/arcs)|assembly|Scaffold genome sequence assemblies. |![GitHub last commit](https://img.shields.io/github/last-commit/bcgsc/arcs)
+[Athena](https://github.com/abishara/athena_meta)|assembly, metagenomics|Read cloud assembler for metagenomes|![GitHub last commit](https://img.shields.io/github/last-commit/abishara/athena_meta)
+[BarCrawler](https://github.com/J35P312/BarCrawler)|qc|QC package for 10X genomics barcoded reads.|![GitHub last commit](https://img.shields.io/github/last-commit/J35P312/BarCrawler)
+[bxtools](https://github.com/walaj/bxtools)|toolkit| Tools for analyzing mapped 10x data|![GitHub last commit](https://img.shields.io/github/last-commit/walaj/bxtools)
+[EMerAld (EMA)](https://github.com/arshajii/ema)|mapping|Preforms barcode-aware alignment of linked reads. Also does preprocessing of 10x Genomics data.|![GitHub last commit](https://img.shields.io/github/last-commit/arshajii/ema)
+[grocsvs](https://github.com/grocsvs/grocsvs)|structural variants|Genome-wide reconstruction of complex structural variants|![GitHub last commit](https://img.shields.io/github/last-commit/grocsvs/grocsvs)
+[HapCUT2](https://github.com/vibansal/HapCUT2)|phasing|Phasing of barcode linked reads|![GitHub last commit](https://img.shields.io/github/last-commit/vibansal/HapCUT2)
+[HapTree-X](https://github.com/0xTCG/haptreex)|phasing|Haplotype phaser for next-generation sequencing data|![GitHub last commit](https://img.shields.io/github/last-commit/0xTCG/haptreex)
+[Lariat](https://github.com/10XGenomics/lariat)|mapping|Linked-Read Alignment Tool|![GitHub last commit](https://img.shields.io/github/last-commit/10XGenomics/lariat)
+[LEVIATHAN](https://github.com/morispi/LEVIATHAN)|structural variants|Linked-reads based structural variant caller with barcode indexing|![GitHub last commit](https://img.shields.io/github/last-commit/morispi/LEVIATHAN)
+[LinkedSV](https://github.com/WGLab/LinkedSV)|structural variants|Structural variant caller for linked-read sequencing data|![GitHub last commit](https://img.shields.io/github/last-commit/WGLab/LinkedSV)
+[LongRanger](https://github.com/10XGenomics/longranger)|pipeline|Pipeline for alignment, variant calling, phasing, and ptructural variant calling|![GitHub last commit](https://img.shields.io/github/last-commit/10XGenomics/longranger)
+[LRez](https://github.com/morispi/LRez)|toolkit|Standalone tool and library allowing to work with barcoded linked-reads|![GitHub last commit](https://img.shields.io/github/last-commit/morispi/LRez)
+[LRTK-SIM](https://github.com/zhanglu295/LRTK-SIM)|simulation|A program to simulate linked reads sequencing from 10X Chromium System|![GitHub last commit](https://img.shields.io/github/last-commit/zhanglu295/LRTK-SIM)
+[LRSIM](https://github.com/aquaskyline/LRSIM)|simulation|A simulator for linked reads|![GitHub last commit](https://img.shields.io/github/last-commit/aquaskyline/LRSIM)
+[Minerva](https://github.com/dcdanko/minerva_barcode_deconvolution)|assembly|Sort Linked Read DNA Into Fragment Specific Clusters|![GitHub last commit](https://img.shields.io/github/last-commit/dcdanko/minerva_barcode_deconvolution)
+[NAIBR](https://github.com/raphael-group/NAIBR)|structural variants|Identifies novel adjacencies created by structural variation events such as deletions, duplications, inversions, and complex rearrangements|![GitHub last commit](https://img.shields.io/github/last-commit/raphael-group/NAIBR)
+[Novel-X](https://github.com/1dayac/Novel-X)|structural variants|Novel insertion detection with 10X reads|![GitHub last commit](https://img.shields.io/github/last-commit/1dayac/Novel-X)
+[Samovar](https://github.com/cdarby/samovar)|variant calling|Somatic (mosaic) SNV caller for 10X Genomics data using random forest classification and feature-based filters|![GitHub last commit](https://img.shields.io/github/last-commit/cdarby/samovar)
+[scaff10x](https://sourceforge.net/projects/phusion2/files/scaff10x/)|assembly|Scaffolding assemblies using linked read data |
+[stLFRdenovo](https://github.com/BGI-biotools/stLFRdenovo)|assebly|De Novo assembly pipeline to deal with barcoded reads. It is based on Supernova, with a fastq parsing and sorting module constumized for stLFR data.|![GitHub last commit](https://img.shields.io/github/last-commit/BGI-biotools/stLFRdenovo) 
+[stLFRsv](https://github.com/BGI-biotools/stLFRsv)|structural variants|Structure variation(SV) pipeline for stLFR co-barcode reads|![GitHub last commit](https://img.shields.io/github/last-commit/BGI-biotools/stLFRsv)
+[SuperNova](https://github.com/10XGenomics/supernova)|assembly|10x Genomics Linked-Read Diploid De Novo Assembler|![GitHub last commit](https://img.shields.io/github/last-commit/10XGenomics/supernova)
+[SVenX](https://github.com/vborjesson/SVenX)|structural variants|Pipeline for SV detection using 10X genomics data|![GitHub last commit](https://img.shields.io/github/last-commit/vborjesson/SVenX)
+[tenx_utils](https://github.com/friend1ws/tenx_utils)|toolkit|Utility functions for 10x data|![GitHub last commit](https://img.shields.io/github/last-commit/friend1ws/tenx_utils)
+[Tigmint](https://github.com/bcgsc/tigmint)|assembly|Correct misassemblies using Linked Reads|![GitHub last commit](https://img.shields.io/github/last-commit/bcgsc/tigmint)
+[Topsorter](https://github.com/hanfang/Topsorter)|structural variants, qc|Graphic assement of structural variants|![GitHub last commit](https://img.shields.io/github/last-commit/hanfang/Topsorter)
+[Valor](https://github.com/BilkentCompGen/valor)|structural variants|Variation discovery using long range information in linked-reads|![GitHub last commit](https://img.shields.io/github/last-commit/BilkentCompGen/valor)
+[ZoomX](https://bitbucket.org/charade/zoomx/)|structural variants|Single Molecule Based Rearrangement Analysis with Linked Read Sequencing |
 
 
 ## Linked Read Platforms
