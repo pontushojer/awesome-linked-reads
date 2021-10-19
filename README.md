@@ -14,6 +14,7 @@ Name|Category|Description|Status
 [bxtools](https://github.com/walaj/bxtools)|toolkit| Tools for analyzing mapped 10x data|![GitHub last commit](https://img.shields.io/github/last-commit/walaj/bxtools)
 [ChromeQC](https://github.com/bcgsc/chromeqc)|qc|Summarize sequencing library quality of 10x Genomics Chromium linked reads|![GitHub last commit](https://img.shields.io/github/last-commit/bcgsc/chromeqc)
 [EMerAld (EMA)](https://github.com/arshajii/ema)|mapping|Preforms barcode-aware alignment of linked reads. Also does preprocessing of 10x Genomics data.|![GitHub last commit](https://img.shields.io/github/last-commit/arshajii/ema)
+[Gemtools](https://github.com/sgreer77/gemtools)|toolkit|Tools for working with linked-read sequencing (10X Genomics) data|![GitHub last commit](https://img.shields.io/github/last-commit/sgreer77/gemtools)
 [grocsvs](https://github.com/grocsvs/grocsvs)|structural variants|Genome-wide reconstruction of complex structural variants|![GitHub last commit](https://img.shields.io/github/last-commit/grocsvs/grocsvs)
 [HapCUT2](https://github.com/vibansal/HapCUT2)|phasing|Phasing of barcode linked reads|![GitHub last commit](https://img.shields.io/github/last-commit/vibansal/HapCUT2)
 [HapTree-X](https://github.com/0xTCG/haptreex)|phasing|Haplotype phaser for next-generation sequencing data|![GitHub last commit](https://img.shields.io/github/last-commit/0xTCG/haptreex)
