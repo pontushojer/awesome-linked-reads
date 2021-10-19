@@ -12,6 +12,7 @@ Name|Category|Description|Status
 [Athena](https://github.com/abishara/athena_meta)|assembly, metagenomics|Read cloud assembler for metagenomes|![GitHub last commit](https://img.shields.io/github/last-commit/abishara/athena_meta)
 [BarCrawler](https://github.com/J35P312/BarCrawler)|qc|QC package for 10X genomics barcoded reads.|![GitHub last commit](https://img.shields.io/github/last-commit/J35P312/BarCrawler)
 [bxtools](https://github.com/walaj/bxtools)|toolkit| Tools for analyzing mapped 10x data|![GitHub last commit](https://img.shields.io/github/last-commit/walaj/bxtools)
+[ChromeQC](https://github.com/bcgsc/chromeqc)|qc|Summarize sequencing library quality of 10x Genomics Chromium linked reads|![GitHub last commit](https://img.shields.io/github/last-commit/bcgsc/chromeqc)
 [EMerAld (EMA)](https://github.com/arshajii/ema)|mapping|Preforms barcode-aware alignment of linked reads. Also does preprocessing of 10x Genomics data.|![GitHub last commit](https://img.shields.io/github/last-commit/arshajii/ema)
 [grocsvs](https://github.com/grocsvs/grocsvs)|structural variants|Genome-wide reconstruction of complex structural variants|![GitHub last commit](https://img.shields.io/github/last-commit/grocsvs/grocsvs)
 [HapCUT2](https://github.com/vibansal/HapCUT2)|phasing|Phasing of barcode linked reads|![GitHub last commit](https://img.shields.io/github/last-commit/vibansal/HapCUT2)
