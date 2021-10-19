@@ -20,6 +20,7 @@ Name|Category|Description|Status
 [Lariat](https://github.com/10XGenomics/lariat)|mapping|Linked-Read Alignment Tool|![GitHub last commit](https://img.shields.io/github/last-commit/10XGenomics/lariat)
 [LEVIATHAN](https://github.com/morispi/LEVIATHAN)|structural variants|Linked-reads based structural variant caller with barcode indexing|![GitHub last commit](https://img.shields.io/github/last-commit/morispi/LEVIATHAN)
 [LinkedSV](https://github.com/WGLab/LinkedSV)|structural variants|Structural variant caller for linked-read sequencing data|![GitHub last commit](https://img.shields.io/github/last-commit/WGLab/LinkedSV)
+[Linker](https://github.com/rwtourdot/linker)|toolkit|Tools for analyzing long and linked read sequencing|![GitHub last commit](https://img.shields.io/github/last-commit/rwtourdot/linker)
 [LongRanger](https://github.com/10XGenomics/longranger)|pipeline|Pipeline for alignment, variant calling, phasing, and ptructural variant calling|![GitHub last commit](https://img.shields.io/github/last-commit/10XGenomics/longranger)
 [LRez](https://github.com/morispi/LRez)|toolkit|Standalone tool and library allowing to work with barcoded linked-reads|![GitHub last commit](https://img.shields.io/github/last-commit/morispi/LRez)
 [LRTK-SIM](https://github.com/zhanglu295/LRTK-SIM)|simulation|A program to simulate linked reads sequencing from 10X Chromium System|![GitHub last commit](https://img.shields.io/github/last-commit/zhanglu295/LRTK-SIM)
