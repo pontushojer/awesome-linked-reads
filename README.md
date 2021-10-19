@@ -2,6 +2,9 @@
 
 This is a collection of tools and resources for analysis and processing of linked-reads. 
 
+- [Tools](#tools)
+- [Linked Read Platforms](#linked-read-platforms)
+
 ## Tools
 Name|Category|Description|Status
 ---|---|:---|-----
