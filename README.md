@@ -37,6 +37,7 @@ Name|Category|Description|Last commit
 [Novel-X](https://github.com/1dayac/Novel-X)|structural variants|Novel insertion detection with 10X reads|![GitHub last commit](https://img.shields.io/github/last-commit/1dayac/Novel-X?label=%20)
 [Pyslr](https://github.com/bcgsc/physlr)|assembly|Construct a Physical Map from Linked Reads|![GitHub last commit](https://img.shields.io/github/last-commit/bcgsc/physlr?label=%20)
 [Samovar](https://github.com/cdarby/samovar)|variant calling|Somatic (mosaic) SNV caller for 10X Genomics data using random forest classification and feature-based filters|![GitHub last commit](https://img.shields.io/github/last-commit/cdarby/samovar?label=%20)
+[samplot](https://github.com/ryanlayer/samplot)|structural variants|Plot structural variant signals from many BAMs and CRAMs|![GitHub last commit](https://img.shields.io/github/last-commit/ryanlayer/samplot?label=%20)
 [scaff10x](https://sourceforge.net/projects/phusion2/files/scaff10x/)|assembly|Scaffolding assemblies using linked read data |
 [stLFRdenovo](https://github.com/BGI-biotools/stLFRdenovo)|assebly|De Novo assembly pipeline to deal with barcoded reads. It is based on Supernova, with a fastq parsing and sorting module constumized for stLFR data.|![GitHub last commit](https://img.shields.io/github/last-commit/BGI-biotools/stLFRdenovo?label=%20) 
 [stLFRsv](https://github.com/BGI-biotools/stLFRsv)|structural variants|Structure variation(SV) pipeline for stLFR co-barcode reads|![GitHub last commit](https://img.shields.io/github/last-commit/BGI-biotools/stLFRsv?label=%20)
