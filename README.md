@@ -37,6 +37,7 @@ Name|Category|Description|Last commit
 [Novel-X](https://github.com/1dayac/Novel-X)|structural variants|Novel insertion detection with 10X reads|![GitHub last commit](https://img.shields.io/github/last-commit/1dayac/Novel-X?label=%20)
 [proc10xG](https://github.com/ucdavis-bioinformatics/proc10xG)|toolkit|Collection of scripts for processing 10x genomics reads|![GitHub last commit](https://img.shields.io/github/last-commit/ucdavis-bioinformatics/proc10xG?label=%20)
 [Pyslr](https://github.com/bcgsc/physlr)|assembly|Construct a Physical Map from Linked Reads|![GitHub last commit](https://img.shields.io/github/last-commit/bcgsc/physlr?label=%20)
+[QuickDeconvolution](https://github.com/RolandFaure/QuickDeconvolution)|assembly|Quick and scalable software to deconvolve read clouds from linked-reads experiments without a reference genome |![GitHub last commit](https://img.shields.io/github/last-commit/RolandFaure/QuickDeconvolution?label=%20)
 [Samovar](https://github.com/cdarby/samovar)|variant calling|Somatic (mosaic) SNV caller for 10X Genomics data using random forest classification and feature-based filters|![GitHub last commit](https://img.shields.io/github/last-commit/cdarby/samovar?label=%20)
 [samplot](https://github.com/ryanlayer/samplot)|structural variants|Plot structural variant signals from many BAMs and CRAMs|![GitHub last commit](https://img.shields.io/github/last-commit/ryanlayer/samplot?label=%20)
 [scaff10x](https://sourceforge.net/projects/phusion2/files/scaff10x/)|assembly|Scaffolding assemblies using linked read data |
