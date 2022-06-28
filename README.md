@@ -25,6 +25,7 @@ Name|Category|Description|Last commit
 [Lancet](https://github.com/nygenome/lancet)|variant calling|Microassembly based somatic variant caller for linked-read data|![GitHub last commit](https://img.shields.io/github/last-commit/nygenome/lancet?label=%20)
 [Lariat](https://github.com/10XGenomics/lariat)|mapping|Linked-Read Alignment Tool|![GitHub last commit](https://img.shields.io/github/last-commit/10XGenomics/lariat?label=%20)
 [LEVIATHAN](https://github.com/morispi/LEVIATHAN)|structural variants|Linked-reads based structural variant caller with barcode indexing|![GitHub last commit](https://img.shields.io/github/last-commit/morispi/LEVIATHAN?label=%20)
+[Link_STR](https://github.com/bcgsc/link_str)|toolkit|Analysis scripts developed for genotyping STRs in linked-read data|![GitHub last commit](https://img.shields.io/github/last-commit/bcgsc/link_str?label=%20)
 [LinkedSV](https://github.com/WGLab/LinkedSV)|structural variants|Structural variant caller for linked-read sequencing data|![GitHub last commit](https://img.shields.io/github/last-commit/WGLab/LinkedSV?label=%20)
 [Linker](https://github.com/rwtourdot/linker)|toolkit|Tools for analyzing long and linked read sequencing|![GitHub last commit](https://img.shields.io/github/last-commit/rwtourdot/linker?label=%20)
 [LongRanger](https://github.com/10XGenomics/longranger)|pipeline|Pipeline for alignment, variant calling, phasing, and ptructural variant calling|![GitHub last commit](https://img.shields.io/github/last-commit/10XGenomics/longranger?label=%20)
