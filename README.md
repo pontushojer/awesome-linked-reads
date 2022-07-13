@@ -78,6 +78,10 @@ Haplotagging is based on the technology presented in [Meier et al. 2021](https:/
 covered with Tn5 tagmentase to cut and barcode individual long DNA fragments in solution. The beads are coated in a combination of two barcodes AB and CB
 that become inserted at the 5' and 3' of each cut fragment. Barcodes are combinatorialy generated with about 85 million possible combinations in total. 
 
+## Contributions
+
+Is some linked-read related tool missing from this resource? Either create a new [issue](https://github.com/pontushojer/awesome-linked-reads/issues/new/choose) with information about the tool you want to add or submit a pull request with the addition directly.
+
 ## Credits
 
 Inspired by the collection in [Awesome-10x-genomics](https://github.com/johandahlberg/awesome-10x-genomics/).
