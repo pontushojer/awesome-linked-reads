@@ -17,6 +17,7 @@ Name|Category|Description|Last commit
 [bxtools](https://github.com/walaj/bxtools)|toolkit| Tools for analyzing mapped 10x data|![GitHub last commit](https://img.shields.io/github/last-commit/walaj/bxtools?label=%20)
 [cloudSPAdes](https://github.com/ablab/spades/tree/cloudspades-ismb)|assembly|Assembly of synthetic long reads using de Bruijn graphs|![GitHub last commit (branch)](https://img.shields.io/github/last-commit/ablab/spades/cloudspades-ismb?label=%20)
 [ChromeQC](https://github.com/bcgsc/chromeqc)|qc|Summarize sequencing library quality of 10x Genomics Chromium linked reads|![GitHub last commit](https://img.shields.io/github/last-commit/bcgsc/chromeqc?label=%20)
+[Cue](https://github.com/PopicLab/cue)|structural variants|Deep learning framework for SV calling and genotyping|![GitHub last commit](https://img.shields.io/github/last-commit/PopicLab/cue?label=%20)
 [EMerAld (EMA)](https://github.com/arshajii/ema)|mapping|Preforms barcode-aware alignment of linked reads. Also does preprocessing of 10x Genomics data.|![GitHub last commit](https://img.shields.io/github/last-commit/arshajii/ema?label=%20)
 [Gemtools](https://github.com/sgreer77/gemtools)|toolkit|Tools for working with linked-read sequencing (10X Genomics) data|![GitHub last commit](https://img.shields.io/github/last-commit/sgreer77/gemtools?label=%20)
 [grocsvs](https://github.com/grocsvs/grocsvs)|structural variants|Genome-wide reconstruction of complex structural variants|![GitHub last commit](https://img.shields.io/github/last-commit/grocsvs/grocsvs?label=%20)
