@@ -10,6 +10,7 @@ Name|Category|Description|Last commit
 ---|---|:---|-----
 [Aquila](https://github.com/maiziex/Aquila)|assembly, pipeline|Diploid personal genome assembly and comprehensive variant detection based on linked-reads|![GitHub last commit](https://img.shields.io/github/last-commit/maiziex/Aquila?label=%20)
 [Aquila_stLFR](https://github.com/maiziex/Aquila_stLFR)|assembly, pipeline|Human haplotype-resolved assembly and variant detection for stLFR, hybrid assembly for linked-reads|![GitHub last commit](https://img.shields.io/github/last-commit/maiziex/Aquila_stLFR?label=%20)
+[AquilaDeepFilter](https://github.com/maiziezhoulab/AquilaDeepFilter)|structural variants|Deep learing based filtering of genome-wide false positive large deletions|![GitHub last commit](https://img.shields.io/github/last-commit/maiziezhoulab/AquilaDeepFilter?label=%20)
 [Ariadne](https://github.com/lauren-mak/ariadne)|assembly, metagenomics|de Bruijn graph-based program for barcoded read deconvolution|![GitHub last commit](https://img.shields.io/github/last-commit/lauren-mak/ariadne?label=%20)
 [arcs](https://github.com/bcgsc/arcs)|assembly|Scaffold genome sequence assemblies. |![GitHub last commit](https://img.shields.io/github/last-commit/bcgsc/arcs?label=%20)
 [Athena](https://github.com/abishara/athena_meta)|assembly, metagenomics|Read cloud assembler for metagenomes|![GitHub last commit](https://img.shields.io/github/last-commit/abishara/athena_meta?label=%20)
