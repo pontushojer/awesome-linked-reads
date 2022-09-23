@@ -53,6 +53,7 @@ Name|Category|Description|Last commit
 [SVenX](https://github.com/vborjesson/SVenX)|structural variants|Pipeline for SV detection using 10X genomics data|![GitHub last commit](https://img.shields.io/github/last-commit/vborjesson/SVenX?label=%20)
 [tenx_utils](https://github.com/friend1ws/tenx_utils)|toolkit|Utility functions for 10x data|![GitHub last commit](https://img.shields.io/github/last-commit/friend1ws/tenx_utils?label=%20)
 [Tigmint](https://github.com/bcgsc/tigmint)|assembly|Correct misassemblies using Linked Reads|![GitHub last commit](https://img.shields.io/github/last-commit/bcgsc/tigmint?label=%20)
+[TitanCNA_10x](https://github.com/GavinHaLab/TitanCNA_10X_snakemake)|pipeline,structural variants,cancer|Snakemake workflow for 10X Genomics WGS analysis using TitanCNA|![GitHub last commit](https://img.shields.io/github/last-commit/GavinHaLab/TitanCNA_10X_snakemake?label=%20)
 [Topsorter](https://github.com/hanfang/Topsorter)|structural variants, qc|Graphic assement of structural variants|![GitHub last commit](https://img.shields.io/github/last-commit/hanfang/Topsorter?label=%20)
 [VISOR](https://github.com/davidebolo1993/VISOR)|simulation|VarIant SimulatOR for short, long and linked reads|![GitHub last commit](https://img.shields.io/github/last-commit/davidebolo1993/VISOR?label=%20)
 [Valor](https://github.com/BilkentCompGen/valor)|structural variants|Variation discovery using long range information in linked-reads|![GitHub last commit](https://img.shields.io/github/last-commit/BilkentCompGen/valor?label=%20)
