@@ -8,6 +8,7 @@ This is a collection of tools and resources for analysis and processing of linke
 ## Tools
 Name|Category|Description|Last commit
 ---|---|:---|-----
+[Aldy](https://github.com/0xTCG/aldy)|structural variants, variant calling|Allelic decomposition and exact genotyping of highly polymorphic and structurally variant genes|![GitHub last commit](https://img.shields.io/github/last-commit/0xTCG/aldy?label=%20)
 [Aquila](https://github.com/maiziex/Aquila)|assembly, pipeline|Diploid personal genome assembly and comprehensive variant detection based on linked-reads|![GitHub last commit](https://img.shields.io/github/last-commit/maiziex/Aquila?label=%20)
 [Aquila_stLFR](https://github.com/maiziex/Aquila_stLFR)|assembly, pipeline|Human haplotype-resolved assembly and variant detection for stLFR, hybrid assembly for linked-reads|![GitHub last commit](https://img.shields.io/github/last-commit/maiziex/Aquila_stLFR?label=%20)
 [AquilaDeepFilter](https://github.com/maiziezhoulab/AquilaDeepFilter)|structural variants|Deep learing based filtering of genome-wide false positive large deletions|![GitHub last commit](https://img.shields.io/github/last-commit/maiziezhoulab/AquilaDeepFilter?label=%20)
