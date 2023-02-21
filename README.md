@@ -60,6 +60,7 @@ Name|Category|Description|Last commit
 [VISOR](https://github.com/davidebolo1993/VISOR)|simulation|VarIant SimulatOR for short, long and linked reads|![GitHub last commit](https://img.shields.io/github/last-commit/davidebolo1993/VISOR?label=%20)
 [Valor](https://github.com/BilkentCompGen/valor)|structural variants|Variation discovery using long range information in linked-reads|![GitHub last commit](https://img.shields.io/github/last-commit/BilkentCompGen/valor?label=%20)
 [WhatsHap](https://github.com/whatshap/whatshap)|phasing,qc,toolkit|Read-based phasing of genomic variants, also called haplotype assembly. Implements several tools which work with linked reads|![GitHub last commit](https://img.shields.io/github/last-commit/whatshap/whatshap?label=%20)
+[xTea](https://github.com/parklab/xTea)|structural variants|Comprehensive TE insertion identification|![GitHub last commit](https://img.shields.io/github/last-commit/parklab/xTea?label=%20)
 [ZoomX](https://bitbucket.org/charade/zoomx/)|structural variants|Single Molecule Based Rearrangement Analysis with Linked Read Sequencing |
 
 
