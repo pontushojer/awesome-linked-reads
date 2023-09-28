@@ -19,6 +19,7 @@ Name|Category|Description|Last commit
 [arcs](https://github.com/bcgsc/arcs)|assembly|Scaffold genome sequence assemblies. |![GitHub last commit](https://img.shields.io/github/last-commit/bcgsc/arcs?label=%20)
 [Athena](https://github.com/abishara/athena_meta)|assembly, metagenomics|Read cloud assembler for metagenomes|![GitHub last commit](https://img.shields.io/github/last-commit/abishara/athena_meta?label=%20)
 [BarCrawler](https://github.com/J35P312/BarCrawler)|qc|QC package for 10X genomics barcoded reads.|![GitHub last commit](https://img.shields.io/github/last-commit/J35P312/BarCrawler?label=%20)
+[bcctools](https://github.com/kehrlab/bcctools)|toolkit|Correcting barcodes in 10X linked-read sequencing data|![GitHub last commit](https://img.shields.io/github/last-commit/kehrlab/bcctools?label=%20)
 [bcmap](https://github.com/kehrlab/bcmap)|mapping, toolkit|Fast tool to map approximate genome locations for barcoded molecules|![GitHub last commit](https://img.shields.io/github/last-commit/kehrlab/bcmap?label=%20)
 [bxtools](https://github.com/walaj/bxtools)|toolkit| Tools for analyzing mapped 10x data|![GitHub last commit](https://img.shields.io/github/last-commit/walaj/bxtools?label=%20)
 [cloudSPAdes](https://github.com/ablab/spades/tree/cloudspades-ismb)|assembly|Assembly of synthetic long reads using de Bruijn graphs|![GitHub last commit (branch)](https://img.shields.io/github/last-commit/ablab/spades/cloudspades-ismb?label=%20)
