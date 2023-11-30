@@ -32,6 +32,7 @@ Name|Category|Description|Last commit
 [grocsvs](https://github.com/grocsvs/grocsvs)|structural variants|Genome-wide reconstruction of complex structural variants|![GitHub last commit](https://img.shields.io/github/last-commit/grocsvs/grocsvs?label=%20)
 [HapCUT2](https://github.com/vibansal/HapCUT2)|phasing|Phasing of barcode linked reads|![GitHub last commit](https://img.shields.io/github/last-commit/vibansal/HapCUT2?label=%20)
 [HapTree-X](https://github.com/0xTCG/haptreex)|phasing|Haplotype phaser for next-generation sequencing data|![GitHub last commit](https://img.shields.io/github/last-commit/0xTCG/haptreex?label=%20)
+[HARPY](https://github.com/pdimens/harpy)|pipeline|Process raw haplotagging data, from raw sequences to phased haplotypes, batteries included.|![GitHub last commit](https://img.shields.io/github/last-commit/pdimens/harpy?label=%20)
 [HAST](https://github.com/BGI-Qingdao/HAST)|assembly|Haplotype-Resolved Assembly for Synthetic Long Reads Using A Trio-Binning Strategy|![GitHub last commit](https://img.shields.io/github/last-commit/BGI-Qingdao/HAST?label=%20)
 [Lancet](https://github.com/nygenome/lancet)|variant calling|Microassembly based somatic variant caller for linked-read data|![GitHub last commit](https://img.shields.io/github/last-commit/nygenome/lancet?label=%20)
 [Lariat](https://github.com/10XGenomics/lariat)|mapping|Linked-Read Alignment Tool|![GitHub last commit](https://img.shields.io/github/last-commit/10XGenomics/lariat?label=%20)
