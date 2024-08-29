@@ -42,6 +42,7 @@ Name|Category|Description|Last commit
 [Linker](https://github.com/rwtourdot/linker)|toolkit|Tools for analyzing long and linked read sequencing|![GitHub last commit](https://img.shields.io/github/last-commit/rwtourdot/linker?label=%20)
 [LongRanger](https://github.com/10XGenomics/longranger)|pipeline|Pipeline for alignment, variant calling, phasing, and ptructural variant calling|![GitHub last commit](https://img.shields.io/github/last-commit/10XGenomics/longranger?label=%20)
 [LRez](https://github.com/morispi/LRez)|toolkit|Standalone tool and library allowing to work with barcoded linked-reads|![GitHub last commit](https://img.shields.io/github/last-commit/morispi/LRez?label=%20)
+[LRTK](https://github.com/ericcombiolab/LRTK)|pipeline, toolkit|A unified and versatile toolkit for analyzing Linked-Read sequencing data|![GitHub last commit](https://img.shields.io/github/last-commit/ericcombiolab/LRTK?label=%20)
 [LRTK-SIM](https://github.com/zhanglu295/LRTK-SIM)|simulation|A program to simulate linked reads sequencing from 10X Chromium System|![GitHub last commit](https://img.shields.io/github/last-commit/zhanglu295/LRTK-SIM?label=%20)
 [LRSIM](https://github.com/aquaskyline/LRSIM)|simulation|A simulator for linked reads|![GitHub last commit](https://img.shields.io/github/last-commit/aquaskyline/LRSIM?label=%20)
 [MetaTrass](https://github.com/BGI-Qingdao/MetaTrass)|assembly|Taxonomic Reads Assembly For a Single Species to Metagenomics|![GitHub last commit](https://img.shields.io/github/last-commit/BGI-Qingdao/MetaTrass?label=%20)
