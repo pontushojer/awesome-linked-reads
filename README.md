@@ -14,7 +14,7 @@ Name|Category|Description|Last commit
 [Aquila_stLFR](https://github.com/maiziex/Aquila_stLFR)|assembly, pipeline|Human haplotype-resolved assembly and variant detection for stLFR, hybrid assembly for linked-reads|![GitHub last commit](https://img.shields.io/github/last-commit/maiziex/Aquila_stLFR?label=%20)
 [AquilaDeepFilter](https://github.com/maiziezhoulab/AquilaDeepFilter)|structural variants|Deep learing based filtering of genome-wide false positive large deletions|![GitHub last commit](https://img.shields.io/github/last-commit/maiziezhoulab/AquilaDeepFilter?label=%20)
 [AquilaSV](https://github.com/maiziezhoulab/AquilaSV)|structural variants, variant calling|Structural variant detection from region-based phased diploid assemblies for 10X and stLFR linked-reads|![GitHub last commit](https://img.shields.io/github/last-commit/maiziezhoulab/AquilaSV?label=%20)
-[ARBitR](https://github.com/markhilt/ARBitR)|scaffolding|ARBitR is an overlap aware genome assembly scaffolder for linked sequencing reads.|![GitHub last commit](https://img.shields.io/github/last-commit/markhilt/ARBitR?label=%20)
+[ARBitR](https://github.com/markhilt/ARBitR)|scaffolding|ARBitR is an overlap-aware genome assembly scaffolder for linked sequencing reads.|![GitHub last commit](https://img.shields.io/github/last-commit/markhilt/ARBitR?label=%20)
 [Ariadne](https://github.com/lauren-mak/ariadne)|assembly, metagenomics|de Bruijn graph-based program for barcoded read deconvolution|![GitHub last commit](https://img.shields.io/github/last-commit/lauren-mak/ariadne?label=%20)
 [arcs](https://github.com/bcgsc/arcs)|assembly|Scaffold genome sequence assemblies. |![GitHub last commit](https://img.shields.io/github/last-commit/bcgsc/arcs?label=%20)
 [Athena](https://github.com/abishara/athena_meta)|assembly, metagenomics|Read cloud assembler for metagenomes|![GitHub last commit](https://img.shields.io/github/last-commit/abishara/athena_meta?label=%20)
@@ -40,7 +40,7 @@ Name|Category|Description|Last commit
 [Link_STR](https://github.com/bcgsc/link_str)|toolkit|Analysis scripts developed for genotyping STRs in linked-read data|![GitHub last commit](https://img.shields.io/github/last-commit/bcgsc/link_str?label=%20)
 [LinkedSV](https://github.com/WGLab/LinkedSV)|structural variants|Structural variant caller for linked-read sequencing data|![GitHub last commit](https://img.shields.io/github/last-commit/WGLab/LinkedSV?label=%20)
 [Linker](https://github.com/rwtourdot/linker)|toolkit|Tools for analyzing long and linked read sequencing|![GitHub last commit](https://img.shields.io/github/last-commit/rwtourdot/linker?label=%20)
-[LongRanger](https://github.com/10XGenomics/longranger)|pipeline|Pipeline for alignment, variant calling, phasing, and ptructural variant calling|![GitHub last commit](https://img.shields.io/github/last-commit/10XGenomics/longranger?label=%20)
+[LongRanger](https://github.com/10XGenomics/longranger)|pipeline|Pipeline for alignment, variant calling, phasing, and structural variant calling|![GitHub last commit](https://img.shields.io/github/last-commit/10XGenomics/longranger?label=%20)
 [LRez](https://github.com/morispi/LRez)|toolkit|Standalone tool and library allowing to work with barcoded linked-reads|![GitHub last commit](https://img.shields.io/github/last-commit/morispi/LRez?label=%20)
 [LRTK](https://github.com/ericcombiolab/LRTK)|pipeline, toolkit|A unified and versatile toolkit for analyzing Linked-Read sequencing data|![GitHub last commit](https://img.shields.io/github/last-commit/ericcombiolab/LRTK?label=%20)
 [LRTK-SIM](https://github.com/zhanglu295/LRTK-SIM)|simulation|A program to simulate linked reads sequencing from 10X Chromium System|![GitHub last commit](https://img.shields.io/github/last-commit/zhanglu295/LRTK-SIM?label=%20)
@@ -72,7 +72,7 @@ Name|Category|Description|Last commit
 [Topsorter](https://github.com/hanfang/Topsorter)|structural variants, qc|Graphic assement of structural variants|![GitHub last commit](https://img.shields.io/github/last-commit/hanfang/Topsorter?label=%20)
 [VISOR](https://github.com/davidebolo1993/VISOR)|simulation|VarIant SimulatOR for short, long and linked reads|![GitHub last commit](https://img.shields.io/github/last-commit/davidebolo1993/VISOR?label=%20)
 [Valor](https://github.com/BilkentCompGen/valor)|structural variants|Variation discovery using long range information in linked-reads|![GitHub last commit](https://img.shields.io/github/last-commit/BilkentCompGen/valor?label=%20)
-[WhatsHap](https://github.com/whatshap/whatshap)|phasing,qc,toolkit|Read-based phasing of genomic variants, also called haplotype assembly. Implements several tools which work with linked reads|![GitHub last commit](https://img.shields.io/github/last-commit/whatshap/whatshap?label=%20)
+[WhatsHap](https://github.com/whatshap/whatshap)|phasing,qc,toolkit|Read-based phasing of genomic variants, also called haplotype assembly. Implements several tools that work with linked reads|![GitHub last commit](https://img.shields.io/github/last-commit/whatshap/whatshap?label=%20)
 [Wrath](https://github.com/annaorteu/wrath)|structural variants,qc|Visualisation and identification of candidate structural variants (SVs) from linked read data|![GitHub last commit](https://img.shields.io/github/last-commit/annaorteu/wrath?label=%20)
 [xTea](https://github.com/parklab/xTea)|structural variants|Comprehensive TE insertion identification|![GitHub last commit](https://img.shields.io/github/last-commit/parklab/xTea?label=%20)
 [ZoomX](https://bitbucket.org/charade/zoomx/)|structural variants|Single Molecule Based Rearrangement Analysis with Linked Read Sequencing |
@@ -87,7 +87,7 @@ Name|Category|Description|Last commit
 TELL-seq is based on the technology from [Chen et al. 2020](https://doi.org/10.1101/gr.260380.119) and is commercially available from the company [Universal Sequencing](https://www.universalsequencing.com/). The method uses clonaly barcode beads with attacted tagmentases to cut and barcode individual long DNA fragments in solution. A second tagmentation is also preformed in solution to introduce a second adaptor. The library is sequenced using Illumina sequencing with special setup to sequence the barcode as index 1.
 
 ### stLFR
-stLFR (single-tube long fragment read) is based on the technology described in [Wang et al. 2019](https://doi.org/10.1101/gr.245126.118) and is commercially available from [MGI](https://en.mgi-tech.com/products/reagents_info/18/). The technology uses tagmentation to individually cut-and-hold long DNA fragments in solution. The tagmentase-DNA complex is then hybridized and individual wrapped around barcoded beads through the adaptor introduced by the tagmentation. The barcode is then ligated to each subfragment before recovery and final library prepration. Sequencing is preformed on the DNBSEQ platfroms.
+stLFR (single-tube long fragment read) is based on the technology described in [Wang et al. 2019](https://doi.org/10.1101/gr.245126.118) and is commercially available from [MGI](https://en.mgi-tech.com/products/reagents_info/18/). The technology uses tagmentation to individually cut-and-hold long DNA fragments in solution. The tagmentase-DNA complex is then hybridized and individually wrapped around barcoded beads through the adaptor introduced by the tagmentation. The barcode is then ligated to each subfragment before recovery and final library preparation. Sequencing is performed on the DNBSEQ platforms.
 
 ### DBS
 Droplet Barcode Sequencing (DBS) is based on the technology described in [Redin el al. 2019](https://doi.org/10.1038/s41598-019-54446-x). Long DNA fragments are subjected to tagmentation using Tn5-covered beads to cut, tag and wrap the fragment around the beads. The DNA-wrapped beads are then used in emmulsion PCR along with barcoded oligo. Within each emmulsion droplet the barcode and tagged fragments are amplified independently and then linked using overlap-extension. Barcode-linked fragments are recovered and indexed for Illumina sequencing.
@@ -98,7 +98,10 @@ Technologies based [Amini et al. 2014](https://doi.org/10.1038/ng.3119) and the 
 ### Haplotagging
 Haplotagging is based on the technology presented in [Meier et al. 2021](https://doi.org/10.1073/pnas.2015005118). The technology uses barcoded beads
 covered with Tn5 tagmentase to cut and barcode individual long DNA fragments in solution. The beads are coated in a combination of two barcodes AB and CB
-that become inserted at the 5' and 3' of each cut fragment. Barcodes are combinatorialy generated with about 85 million possible combinations in total. 
+that become inserted at the 5' and 3' of each cut fragment. Barcodes are combinatorially generated with about 85 million possible combinations in total. 
+
+### Constellation 
+Constellation mapped reads is a soon-to-be-released product from Illumina, see [press release](https://www.illumina.com/company/news-center/press-releases/press-release-details.html?newsid=a8203e6f-0b9a-4aa6-9f5e-8037fc464e39). Unlike the other linked read technologies that rely on DNA barcodes to link fragments, constellation uses flowcell proximity to link together reads that originate from the same fragment. More info to come...
 
 ## Contributions
 
