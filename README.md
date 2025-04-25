@@ -72,12 +72,11 @@ Name|Category|Description|Last commit
 [TitanCNA_10x](https://github.com/GavinHaLab/TitanCNA_10X_snakemake)|pipeline,structural variants,cancer|Snakemake workflow for 10X Genomics WGS analysis using TitanCNA|![GitHub last commit](https://img.shields.io/github/last-commit/GavinHaLab/TitanCNA_10X_snakemake?label=%20)
 [Topsorter](https://github.com/hanfang/Topsorter)|structural variants, qc|Graphic assement of structural variants|![GitHub last commit](https://img.shields.io/github/last-commit/hanfang/Topsorter?label=%20)
 [Valor](https://github.com/BilkentCompGen/valor)|structural variants|Variation discovery using long range information in linked-reads|![GitHub last commit](https://img.shields.io/github/last-commit/BilkentCompGen/valor?label=%20)
-[VISOR](https://github.com/davidebolo1993/VISOR)|simulation|VarIant SimulatOR for short, long and linked reads. Linked-read simulation has been superceded by [Mimick](https://github.com/pdimens/mimick)|![GitHub last commit](https://img.shields.io/github/last-commit/davidebolo1993/VISOR?label=%20)
+[VISOR](https://github.com/davidebolo1993/VISOR)[^1]|simulation|VarIant SimulatOR for short, long and linked reads.|![GitHub last commit](https://img.shields.io/github/last-commit/davidebolo1993/VISOR?label=%20)
 [WhatsHap](https://github.com/whatshap/whatshap)|phasing,qc,toolkit|Read-based phasing of genomic variants, also called haplotype assembly. Implements several tools that work with linked reads|![GitHub last commit](https://img.shields.io/github/last-commit/whatshap/whatshap?label=%20)
 [Wrath](https://github.com/annaorteu/wrath)|structural variants,qc|Visualisation and identification of candidate structural variants (SVs) from linked read data|![GitHub last commit](https://img.shields.io/github/last-commit/annaorteu/wrath?label=%20)
 [xTea](https://github.com/parklab/xTea)|structural variants|Comprehensive TE insertion identification|![GitHub last commit](https://img.shields.io/github/last-commit/parklab/xTea?label=%20)
 [ZoomX](https://bitbucket.org/charade/zoomx/)|structural variants|Single Molecule Based Rearrangement Analysis with Linked Read Sequencing |
-
 
 ## Linked Read Platforms
 
@@ -107,6 +106,8 @@ Constellation mapped reads is a soon-to-be-released product from Illumina, see [
 ## Contributions
 
 Is some linked-read related tool missing from this resource? Either create a new [issue](https://github.com/pontushojer/awesome-linked-reads/issues/new/choose) with information about the tool you want to add or submit a pull request with the addition directly.
+
+[^1]: Linked-read simulation with VISOR has been superseded by [Mimick](https://github.com/pdimens/mimick)
 
 ## Credits
 
